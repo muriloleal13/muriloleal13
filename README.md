@@ -7,7 +7,7 @@ Sou apaixonado por desafios de códigos que me fazem usar toda minha capacidade 
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [PHP, Jquery, Javascript, Typescript, HTML, CSS, Flutter],
+   code: [PHP, Javascript, Typescript, HTML, CSS, Flutter],
    technologies: {
       frontEnd: {
          js: ["Vue", "React"],
