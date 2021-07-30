@@ -44,7 +44,7 @@ const aboutMe = {
 </a>
 
 <a href="https://github.com/muriloleal13">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=muriloleal13&show_icons=true&theme=dracula&line_height=27" alt="**MURILO LEA** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=muriloleal13&show_icons=true&theme=dracula&line_height=27" alt="**MURILO LEAL** github stats"/>
 </a>
 
 [twitter]: https://twitter.com/mukkaL13
