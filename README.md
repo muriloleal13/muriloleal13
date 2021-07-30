@@ -2,7 +2,7 @@
 
 Sou apaixonado por desafios de códigos que me fazem usar toda minha capacidade de lógica e de desenvolvimento.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## **Mais sobre mim**
 
 ```javascript
 const aboutMe = {
