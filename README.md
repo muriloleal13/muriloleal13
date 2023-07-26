@@ -7,7 +7,7 @@ Sou apaixonado por desafios de códigos que me fazem usar toda minha capacidade 
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [PHP, Javascript, Typescript, HTML, CSS, Flutter],
+   code: [PHP, Javascript, Typescript, HTML, CSS, Delphi, Flutter],
    technologies: {
       frontEnd: {
          js: ["Vue", "React"],
@@ -48,7 +48,7 @@ const aboutMe = {
 </a>
 
 [twitter]: https://twitter.com/mukkaL13
-[instagram]: https://www.instagram.com/murilo.l13/
+[instagram]: https://www.instagram.com/leal.murilo_/
 [linkedin]: https://www.linkedin.com/in/murilo-leal/
 <br>
 
