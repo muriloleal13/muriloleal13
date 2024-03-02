@@ -7,18 +7,18 @@ Sou apaixonado por desafios de códigos que me fazem usar toda minha capacidade 
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [PHP, Javascript, Typescript, HTML, CSS, Delphi, Flutter],
+   code: [PHP, Javascript, Typescript, HTML, CSS, Java, Delphi, Flutter],
    technologies: {
       frontEnd: {
          js: ["Vue", "React"],
-         css: ["Bootstrap", "Materialize", "Material Design"]
+         css: ["Tailwind", "Bootstrap", "Materialize", "Material Design"]
       },
       backEnd: {
          js: ["Node"],
          php: ["Laravel"],
          misc: ["Selenium"]
       },
-      databases: ["MySQL", "NoSQL"],
+      databases: ["MySQL", "NoSQL", "Firebase"],
    },
    currentOccupation: ["full stack developer, focusing on web development and some studies in flutter"],
    challenge: "being able to be recognized by my own codes and style",
