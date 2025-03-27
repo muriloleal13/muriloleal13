@@ -15,13 +15,13 @@ const aboutMe = {
   role: "Frontend Developer",
   stack: {
     current: {
-      frontEnd: ["Vue 3", "Quasar", "JavaScript", "TypeScript", "HTML", "CSS"],
+      frontEnd: ["Vue 3", "Quasar", "JavaScript", "TypeScript", "Tailwind"],
       backEnd: ["Node.js"],
       databases: ["MySQL", "PostgreSQL", "MongoDB"],
       tools: ["Git", "GitHub", "GitLab", "Docker"]
     },
     previousExperience: {
-      frontEnd: ["React", "Tailwind", "Bootstrap", "Materialize", "Material Design"],
+      frontEnd: ["React", "HTML", "CSS", "Bootstrap", "Materialize", "Material Design"],
       backEnd: ["PHP", "Laravel", "Java", "Delphi", "Selenium"],
       mobile: ["React Native", "Flutter"],
       databases: ["Firebase", "NoSQL"],
